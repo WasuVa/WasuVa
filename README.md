@@ -11,7 +11,7 @@
 🌱 Exploring new technologies every day  
 👯 Open to collaborating on open-source projects  
 💬 Always happy to discuss tech & learning resources  
-⚡ Fun fact: I enjoy [gaming 🎮 | music 🎶 | travel ✈️]  
+⚡ Fun fact: I enjoy [gaming 🎮 | music 🎶]  
 
 ---
 
