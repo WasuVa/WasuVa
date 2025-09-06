@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wasuda Sandaruvan  
 
 💦 Currently working from **Home**  
-💫 Currently learning **[Your Skill/Tech – e.g., Java | Web Development | Cloud]**  
+💫 Currently learning **Java**  
 
 ---
 
