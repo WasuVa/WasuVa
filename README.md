@@ -60,6 +60,10 @@
 
 ---
 
+![snake gif](https://github.com/wasudasandaruvan/wasudasandaruvan/blob/output/github-snake-dark.svg)
+
+---
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Wasuda Sandaruvan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Wasuda Sandaruvan" /></a></p><br><br>
 
