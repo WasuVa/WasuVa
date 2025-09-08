@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="[https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&](https://tenor.com/bV0Zd.gif)"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Wasuda Sabdaruvan</h1>
 <h3 align="center">A Software Engineering Student From SRI LANKA</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wasudasandaruvan&label=Profile%20views&color=0e75b6&style=flat" alt="wasudasandaruvan" /> </p>
@@ -29,12 +33,12 @@
 
 
 ---
-<div align="center">
+
 📊 GitHub Stats  
   ![](https://github-readme-stats.vercel.app/api?username=WasudaSandaruvan&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=WasudaSandaruvan&theme=tokyonight&hide_border=false)  
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WasudaSandaruvan&layout=compact&theme=tokyonight&hide_border=false)  
-</div>div>
+  
 ---
 
 ## 🏆 GitHub Trophies  
