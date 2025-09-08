@@ -2,7 +2,7 @@
 
 💻 A passionate developer who loves turning ideas into code.  
 💦 Currently working from **home**  
-📚 Always learning — focusing on **Java | Web Development | Cloud**  
+📚 Always learning — focusing on **Java | Web Development**  
 
 ---
 
