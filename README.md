@@ -38,12 +38,10 @@
 ---
 
 📊 GitHub Stats  
-<p align="center">
   <a href=[ ](https://github-readme-stats.vercel.app/api?username=WasudaSandaruvan&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)/></a>
   ![](https://github-readme-stats.vercel.app/api?username=WasudaSandaruvan&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=WasudaSandaruvan&theme=tokyonight&hide_border=false)  
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WasudaSandaruvan&layout=compact&theme=tokyonight&hide_border=false)  
-  </p>
   
 ---
 
