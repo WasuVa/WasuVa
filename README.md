@@ -17,6 +17,11 @@
 💬 Always happy to discuss tech, coding & learning resources  
 ⚡ Fun fact: I enjoy **gaming 🎮 | music 🎶 | travel ✈️**  
 
+<div align="center">
+  
+  ![snake gif](https://github.com/wasudasandaruvan/wasudasandaruvan/blob/output/github-snake-dark.svg)
+</div>
+
 ---
 
 <h3 align="center">Connect with me:</h3>
@@ -49,17 +54,11 @@
 
 ---
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wasudasandaruvan&label=Profile%20views&color=0e75b6&style=flat" alt="wasudasandaruvan" /> </p>
+
 ###
 
 <br clear="both">
-
-<div align="center">
-  
-  ![snake gif](https://github.com/wasudasandaruvan/wasudasandaruvan/blob/output/github-snake-dark.svg)
-</div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wasudasandaruvan&label=Profile%20views&color=0e75b6&style=flat" alt="wasudasandaruvan" /> </p>
-
----
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/Wasuda Sandaruvan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Wasuda Sandaruvan" /></a></p><br><br>
