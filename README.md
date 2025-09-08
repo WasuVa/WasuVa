@@ -1,17 +1,18 @@
-# 👋 Hi, I'm Wasuda Sandaruvan  
+# 👋 Hey there, I'm Wasuda Sandaruvan  
 
-💦 Currently working from **Home**  
-💫 Currently learning **Java**  
+💻 A passionate developer who loves turning ideas into code.  
+💦 Currently working from **home**  
+📚 Always learning — focusing on **Java | Web Development | Cloud**  
 
 ---
 
 ## 💫 About Me  
-🚀 Passionate about coding and problem-solving  
-🔭 Focused on sharpening my development skills  
-🌱 Exploring new technologies every day  
-👯 Open to collaborating on open-source projects  
-💬 Always happy to discuss tech & learning resources  
-⚡ Fun fact: I enjoy [gaming 🎮 | music 🎶]  
+🚀 Passionate about building and problem-solving  
+🔭 On a journey to sharpen my development skills  
+🌱 Exploring new technologies every single day  
+👯 Open to collaborating on **open-source projects**  
+💬 Always happy to discuss tech, coding & learning resources  
+⚡ Fun fact: I enjoy **gaming 🎮 | music 🎶 | travel ✈️**  
 
 ---
 
@@ -24,6 +25,10 @@
 ## 💻 Tech Stack  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
 ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)  
 
 ---
@@ -40,6 +45,9 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=WasudaSandaruvan&icon=0&color=0)](https://visitcount.itsvg.in)  
+## 🔥 GitHub Activity Graph  
+[![Wasuda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WasudaSandaruvan&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=WasudaSandaruvan&icon=0&color=0)](https://visitcount.itsvg.in)  
