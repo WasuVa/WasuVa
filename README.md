@@ -38,10 +38,8 @@
 <div align="center">
 
 ### 🛠️ Languages & Tools  
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,mysql,ps,ai,unreal" />
-</p>
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,mysql,git,vscode,idea,photoshop,illustrator&theme=dark)](https://skillicons.dev)
 
 ---
 
