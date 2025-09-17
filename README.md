@@ -30,6 +30,8 @@
   <a href="https://linkedin.com/in/wasuda-sandaruvan-94b1bb370" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+
+  [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 </p>
 </div>
   
