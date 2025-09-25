@@ -120,7 +120,7 @@ interests: [Gaming, Music, Travel, Technology]
 <!-- Activity Graph -->
 <div align="center">
   <h2>📈 Contribution Activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasudasandaruvan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasudasandaruvan&theme=rainbow&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
