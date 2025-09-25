@@ -58,7 +58,7 @@ interests: [Gaming, Music, Travel, Technology]
 <div align="center">
 
 ### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,html,css,js" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,html,css" alt="Languages" />
 
 ### 🗄️ Databases & Tools
 <img src="https://skillicons.dev/icons?i=mysql,git,vscode,idea" alt="Tools" />
