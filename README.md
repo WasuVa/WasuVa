@@ -12,7 +12,7 @@
 
 <!-- Professional Summary -->
 <div align="center">
-  <h2>� Professional Summary</h2>
+  <h2>🚀 Professional Summary</h2>
   <p><em>"Passionate software engineering student with a strong foundation in full-stack development and a keen eye for problem-solving. Committed to writing clean, efficient code and contributing to meaningful projects that make a difference."</em></p>
 </div>
 
@@ -21,7 +21,7 @@
 <!-- About Me Section -->
 <div align="left">
 
-## � About Me
+## 💼 About Me
 
 ```yaml
 name: Wasuda Sandaruvan
@@ -36,7 +36,7 @@ interests: [Gaming, Music, Travel, Technology]
 
 ### 🎯 Current Focus
 - 🔥 **Full-Stack Development**: Building end-to-end applications with modern technologies
-- � **Continuous Learning**: Exploring new frameworks, tools, and best practices
+- 📚 **Continuous Learning**: Exploring new frameworks, tools, and best practices
 - 🤝 **Open Source**: Contributing to community projects and building my portfolio
 - 🏆 **Problem Solving**: Tackling algorithmic challenges and real-world problems
 
@@ -57,21 +57,14 @@ interests: [Gaming, Music, Travel, Technology]
 
 <div align="center">
 
-### 💻 Languages
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=java,html,css,js" alt="Languages" />
 
 ### 🗄️ Databases & Tools
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
+<img src="https://skillicons.dev/icons?i=mysql,git,vscode,idea" alt="Tools" />
 
 ### 🎨 Design & Creative
-[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)]()
-[![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)]()
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="Design" />
 
 </div>
 
@@ -99,7 +92,7 @@ interests: [Gaming, Music, Travel, Technology]
 
 <!-- GitHub Snake Animation -->
 <div align="center">
-  <h2>� Contribution Snake</h2>
+  <h2>🐍 Contribution Snake</h2>
   <img src="https://github.com/wasudasandaruvan/wasudasandaruvan/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
@@ -114,17 +107,17 @@ interests: [Gaming, Music, Travel, Technology]
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=WasudaSandaruvan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=wasudasandaruvan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=WasudaSandaruvan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasudasandaruvan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasudaSandaruvan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasudasandaruvan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -132,7 +125,7 @@ interests: [Gaming, Music, Travel, Technology]
 <!-- Activity Graph -->
 <div align="center">
   <h2>📈 Contribution Activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WasudaSandaruvan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasudasandaruvan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -140,7 +133,7 @@ interests: [Gaming, Music, Travel, Technology]
 <!-- Trophies -->
 <div align="center">
   <h2>🏆 GitHub Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=WasudaSandaruvan&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wasudasandaruvan&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
