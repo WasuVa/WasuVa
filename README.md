@@ -104,20 +104,15 @@ interests: [Gaming, Music, Travel, Technology]
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=wasudasandaruvan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=wasudasandaruvan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wasudasandaruvan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasudasandaruvan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=wasudasandaruvan" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=wasudasandaruvan&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasudasandaruvan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
