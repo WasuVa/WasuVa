@@ -107,17 +107,17 @@ interests: [Gaming, Music, Travel, Technology]
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=wasudasandaruvan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=wasudasandaruvan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasudasandaruvan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=wasudasandaruvan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasudasandaruvan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasudasandaruvan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=wasudasandaruvan" alt="Top Languages" />
 </div>
 
 ---
