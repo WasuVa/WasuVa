@@ -93,7 +93,7 @@ interests: [Gaming, Music, Travel, Technology]
 <!-- GitHub Snake Animation -->
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
-  <img src="https://github.com/wasudasandaruvan/wasudasandaruvan/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/WasuVa/WasuVa/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -104,15 +104,15 @@ interests: [Gaming, Music, Travel, Technology]
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wasudasandaruvan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WasuVa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=wasudasandaruvan&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=WasuVan&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasudasandaruvan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasuVan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
@@ -120,7 +120,7 @@ interests: [Gaming, Music, Travel, Technology]
 <!-- Activity Graph -->
 <div align="center">
   <h2>📈 Contribution Activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasudasandaruvan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WasuVa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -128,7 +128,7 @@ interests: [Gaming, Music, Travel, Technology]
 <!-- Trophies -->
 <div align="center">
   <h2>🏆 GitHub Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=wasudasandaruvan&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WasuVa&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -141,7 +141,7 @@ interests: [Gaming, Music, Travel, Technology]
   <br/>
   
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=wasudasandaruvan&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=WasuVa&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   
   <br/><br/>
   
