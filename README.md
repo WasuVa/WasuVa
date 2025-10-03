@@ -108,11 +108,11 @@ interests: [Gaming, Music, Travel, Technology]
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=WasuVan&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=WasuVa&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasuVan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasuVa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
