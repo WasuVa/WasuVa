@@ -56,6 +56,32 @@ interests: [Gaming, Music, Travel, Technology]
 </div>
 
 <div align="center">
+  <table>
+  <tr>
+  <td align="center" width="25%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
+  <b>Backend Development</b><br>
+  <sub>Java, JavaScript, API Design</sub>
+  </td>
+  <td align="center" width="25%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
+  <b>Database Architecture</b><br>
+  <sub>MySQL, Design & Optimization</sub>
+  </td>
+  <td align="center" width="25%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+  <b>System Integration</b><br>
+  <sub>RESTful APIs, MVC Pattern</sub>
+  </td>
+  <td align="center" width="25%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
+  <b>Code Quality</b><br>
+  <sub>Clean Code, Best Practices</sub>
+  </td>
+  </tr>
+  </table>
+</div>
+<div align="center">
 
 ### 💻 Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=java,html,css" alt="Languages" />
@@ -100,32 +126,34 @@ interests: [Gaming, Music, Travel, Technology]
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
-</div>
+  ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WasuVa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=WasuVa&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
-</div>
+<table>
+<tr>
+<td align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=WasuVa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Statistics"/>
+</td>
+<td align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasuVa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages"/>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasuVa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WasuVa&theme=tokyonight&hide_border=true&stroke=70a5fd&background=1a1b27&ring=bf7af7&fire=70a5fd&currStreakLabel=70a5fd" />
+</td>
+
+</tr>
+</table>
+
 </div>
 
 ---
 
-<!-- Activity Graph -->
-<div align="center">
-  <h2>📈 Contribution Activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WasuVa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
-<!-- Trophies -->
 <div align="center">
   <h2>🏆 GitHub Achievements</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=WasuVa&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
@@ -133,9 +161,17 @@ interests: [Gaming, Music, Travel, Technology]
 
 ---
 
+<div align="center">
+  <h2>📈 Contribution Activity</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WasuVa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
 <!-- Footer -->
 <div align="center">
   <h2>💼 Professional Philosophy</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
   <p><em>"Code is poetry written in logic. Every line should tell a story, solve a problem, and inspire innovation."</em></p>
   
   <br/>
