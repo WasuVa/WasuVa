@@ -136,7 +136,7 @@ interests: [Gaming, Music, Travel, Technology]
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=WasuVa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Statistics"/>
 </td>
 <td align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasuVa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WasuVa&theme=tokyonight&hide_border=true&stroke=70a5fd&background=1a1b27&ring=bf7af7&fire=70a5fd&currStreakLabel=70a5fd" />
 </td>
 </tr>
 </table>
@@ -144,7 +144,7 @@ interests: [Gaming, Music, Travel, Technology]
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WasuVa&theme=tokyonight&hide_border=true&stroke=70a5fd&background=1a1b27&ring=bf7af7&fire=70a5fd&currStreakLabel=70a5fd" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasuVa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages"/>
 </td>
 
 </tr>
