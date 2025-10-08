@@ -90,7 +90,7 @@ interests: [Gaming, Music, Travel, Technology]
 <img src="https://skillicons.dev/icons?i=mysql,git,vscode,idea" alt="Tools" />
 
 ### 🎨 Design & Creative
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator," alt="Design" />
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="Design" />
 
 </div>
 
