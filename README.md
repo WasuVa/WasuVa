@@ -126,7 +126,7 @@ interests: [Gaming, Music, Travel, Technology]
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  ## 📊 GitHub Analytics
+  📊 GitHub Analytics
 
 <div align="center">
 
