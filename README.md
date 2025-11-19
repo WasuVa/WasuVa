@@ -84,13 +84,13 @@ interests: [Gaming, Music, Travel, Technology]
 <div align="center">
 
 ### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,bootstrap,tailwind" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,bootstrap,tailwind,webflow" alt="Languages" />
 
 ### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,git,vscode,idea" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=mysql,git,vscode,idea,postman" alt="Tools" />
 
 ### 🎨 Design & Creative
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="Design" />
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,xd" alt="Design" />
 
 </div>
 
