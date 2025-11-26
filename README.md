@@ -189,7 +189,7 @@ interests: [Gaming, Music, Travel, Technology]
   <!-- Support Section -->
   <h3>☕ Support My Journey</h3>
   <p>If you find my work valuable and want to support my learning journey:</p>
-  <a href="buymeacoffee.com/wasudasandaruvan" target="_blank">
+  <a href="https://buymeacoffee.com/wasudasandaruvan" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
   
