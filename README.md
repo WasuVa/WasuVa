@@ -1,6 +1,7 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Wasuda+Sandaruvan;Software+Engineering+Student;Full-Stack+Developer;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Wasuda+Sandaruvan;Software+Engineering+Student;Full-Stack+Developer;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" /> -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=WASUDA%20SANDARUVAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✦%20Software%20Engineer%20✦%20Full-Stack%20Developer%20✦%20Digital%20Craftsman%20✦&descAlignY=60&descSize=20&descAlign=50&stroke=00d4ff&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
@@ -13,10 +14,12 @@
 <!-- Professional Summary -->
 <div align="center">
   <h2>🚀 Professional Summary</h2>
+  
   <p><em>"Passionate software engineering student with a strong foundation in full-stack development and a keen eye for problem-solving. Committed to writing clean, efficient code and contributing to meaningful projects that make a difference."</em></p>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+</p>
 </div>
-
----
 
 <!-- About Me Section -->
 <div align="left">
@@ -48,7 +51,9 @@ interests: [Gaming, Music, Travel, Technology]
 
 </div>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+</p>
 
 <!-- Tech Stack -->
 <div align="center">
@@ -94,7 +99,9 @@ interests: [Gaming, Music, Travel, Technology]
 
 </div>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+</p>
 
 <!-- Connect Section -->
 <div align="center">
@@ -114,7 +121,9 @@ interests: [Gaming, Music, Travel, Technology]
   </a>
 </div>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+</p>
 
 <!-- GitHub Snake Animation -->
 <div align="center">
@@ -126,8 +135,9 @@ interests: [Gaming, Music, Travel, Technology]
   </picture>
 </div>
 
-
----
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+</p>
 
 <!-- GitHub Stats Section -->
 <div align="center">
@@ -157,21 +167,25 @@ interests: [Gaming, Music, Travel, Technology]
 
 </div>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+</p>
 
 <div align="center">
   <h2>🏆 GitHub Achievements</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=WasuVa&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <h2>📈 Contribution Activity</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WasuVa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+</p>
 
 <!-- Footer -->
 <div align="center">
@@ -200,3 +214,13 @@ interests: [Gaming, Music, Travel, Technology]
     <strong>Thanks for visiting! Let's build something amazing together! 🚀</strong>
   </p>
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌊 ANIMATED WAVE FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                           END OF README                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
