@@ -146,22 +146,29 @@ interests: [Gaming, Music, Travel, Technology]
 <div align="center">
 
 <table>
+
 <tr>
-<td align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=WasuVa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Statistics"/>
-</td>
+
 <td align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=WasuVa&theme=tokyonight&hide_border=true&stroke=70a5fd&background=1a1b27&ring=bf7af7&fire=70a5fd&currStreakLabel=70a5fd" />
 </td>
+
+<td align="center">
+<img height="200" src="https://github-contributor-stats.vercel.app/api?username=WasuVa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&custom_title=Contributor%20Stats" />
+</td>
+
 </tr>
+
 </table>
 
 <table>
 <tr>
-<td align="center" width="50%">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasuVa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages"/>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WasuVa&theme=tokyonight" alt="Profile Details" />
 </td>
-
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WasuVa&theme=tokyonight&utcOffset=5" alt="Productive Time" />
+</td>
 </tr>
 </table>
 
