@@ -128,7 +128,11 @@ interests: [Gaming, Music, Travel, Technology]
 <!-- GitHub Snake Animation -->
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
-  <img src="https://github.com/WasuVa/WasuVa/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WasuVa/WasuVa/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WasuVa/WasuVa/output/github-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/WasuVa/WasuVa/output/github-snake.svg" />
+  </picture>
 </div>
 
 <p align="center">
