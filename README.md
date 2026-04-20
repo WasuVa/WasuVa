@@ -92,7 +92,7 @@ interests: [Gaming, Music, Travel, Technology]
 <img src="https://skillicons.dev/icons?i=java,js,ts,spring,angular,html,css,bootstrap,tailwind,webflow" alt="Languages" />
 
 ### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,git,vscode,idea,postman" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=mysql,git,vscode,idea,postman,unity" alt="Tools" />
 
 ### 🎨 Design & Creative
 <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,xd" alt="Design" />
