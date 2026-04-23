@@ -139,61 +139,6 @@ interests: [Gaming, Music, Travel, Technology]
   <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 </p>
 
-<!-- GitHub Stats Section -->
-<div align="center">
-  📊 GitHub Analytics
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WasuVa&theme=tokyonight&hide_border=true&stroke=70a5fd&background=1a1b27&ring=bf7af7&fire=70a5fd&currStreakLabel=70a5fd" />
-</td>
-
-<td align="center">
-<img height="200" src="https://github-contributor-stats.vercel.app/api?username=WasuVa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&custom_title=Contributor%20Stats" />
-</td>
-
-</tr>
-
-</table>
-
-<table>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WasuVa&theme=tokyonight" alt="Profile Details" />
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WasuVa&theme=tokyonight&utcOffset=5" alt="Productive Time" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
-</p>
-
-<div align="center">
-  <h2>🏆 GitHub Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=WasuVa&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-  <h2>📈 Contribution Activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WasuVa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
-</p>
-
 <!-- Footer -->
 <div align="center">
   <h2>💼 Professional Philosophy</h2>
