@@ -13,7 +13,6 @@
 
 <!-- Professional Summary -->
 <div align="center">
-  <h2>🚀 Professional Summary</h2>
   
   <p><em>"Passionate software engineering student with a strong foundation in full-stack development and a keen eye for problem-solving. Committed to writing clean, efficient code and contributing to meaningful projects that make a difference."</em></p>
 <p align="center">
